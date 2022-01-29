@@ -2,6 +2,8 @@ import pandas as pd
 import preprocessing_functions as pf
 import algorithm as al
 import greedy_algorithm as gr
+import matplotlib.pyplot as plt
+
 def main():
     # data_frame_songs = c.read_csv('song_hash.txt')
     songs_data = pd.read_csv('songs_features.csv')
