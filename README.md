@@ -3,7 +3,7 @@
 The data contains 600 songs from 2010-2019.
 Each song is represented by 10 different features: BPM, Energy, Danceability, Loudness, Liveness, Valence, Length, Acousticness, Speechiness, Popularity.
 
-**Project ** 
+**Project** 
 
 The project is based on the article "DJ-MC: A Reinforcement-Learning Agent for Music Playlist Recommendation" 
 which deals the following problam : how to recommend the next song to the customer?
